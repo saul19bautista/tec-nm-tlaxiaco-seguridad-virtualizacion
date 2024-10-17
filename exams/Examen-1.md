@@ -160,7 +160,7 @@ Nombre: Saúl López Bautista
 
 23. ¿Cuál es la función del Código Penal en relación con la seguridad de la información?
 
-* [a] a) Establecer los delitos y las sanciones penales por acciones que atentan contra la seguridad de la información.
+* [x] a) Establecer los delitos y las sanciones penales por acciones que atentan contra la seguridad de la información.
 * [ ] b) Proteger los datos personales de los individuos y garantizar su privacidad.
 * [ ] c) Proteger los sistemas de información críticos y garantizar la seguridad de la información.
 * [ ] d) Regular el tratamiento legítimo, controlado e informado de los datos personales.
